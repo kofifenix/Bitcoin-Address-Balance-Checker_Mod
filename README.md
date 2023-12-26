@@ -1,9 +1,9 @@
 # Bitcoin- Address/Wallet Balance-Checker
-Python Bitcoin Balance checker. This is a simple program that can Find the Total balance of a certain BTC address/wallet
+Python Bitcoin Balance Checker. This is a simple program that can Find the Total balance of a list of BTC addresses in a TXT file. 
 
 # How to run
 
-[#] Recomended to use Python 3.6  << I tested on this python version only
+[#] There are 2 versions in this repo. One for Python 2.X and the other for Python 3.X. 
 
 1] ` pip install -r requirements.txt ` or `pip3 install -r requirements.txt`
 
