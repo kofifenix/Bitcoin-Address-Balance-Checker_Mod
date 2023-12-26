@@ -7,6 +7,6 @@ Python Bitcoin Balance Checker. This is a simple program that can Find the Total
 
 1] ` pip install -r requirements.txt ` or `pip3 install -r requirements.txt`
 
-2] `python3 balancechecker.py` or `python balancechecker.py` or `py -3 balancechecker.py`
+2] `python3 balancechecker_mod_py3.py` or `python balancechecker_mod_py27.py` or `py -3 balancechecker_mod_py3.py` (Depending on how you have Python set up.)
 
-3] ` Enter a BTC address`
+3] `Enter path / name of TXT file with list of addresses.`
